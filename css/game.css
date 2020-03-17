@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #03a9f4a6;
+    flex-direction: column;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.board td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(141, 87, 21)
+}
+
